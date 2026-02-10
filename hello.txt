@@ -1,1 +1,2 @@
-"helo, this a new mesge! WRONG WRONG WRONG"
+"hello, this is a new message!"
+"hello, this is the seconde message!"
